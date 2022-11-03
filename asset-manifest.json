@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.826e9529.css",
+    "main.js": "/static/js/main.cbe46ed5.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "index.html": "/index.html",
+    "main.826e9529.css.map": "/static/css/main.826e9529.css.map",
+    "main.cbe46ed5.js.map": "/static/js/main.cbe46ed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826e9529.css",
+    "static/js/main.cbe46ed5.js"
+  ]
+}
